@@ -5,7 +5,7 @@
 
 My stack technologies
 
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"> https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=blue"> <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=blue">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"> <img src ="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=blue"> <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=blue">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prefixx0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
